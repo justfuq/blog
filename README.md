@@ -1,2 +1,2 @@
 # blog
-Blog
+Hexo blog just test
